@@ -1,0 +1,90 @@
+id: 4d9f8695eb35425e9723ff0a9d31f49f
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  befa2507490a484aa9055cb4514fcb40:
+    span:
+      start: 73
+      end: 73
+  c47b840e9a574fb6bb7d543ae85ea478:
+    span:
+      start: 248
+      end: 248
+  1728a531430c43ed83cacf9e93663466:
+    span:
+      start: 550
+      end: 550
+  e53804e2dc8c4e89b6e1648dd08e41a4:
+    span:
+      start: 635
+      end: 635
+  69a013a9f35f481d9fa170aee5923abf:
+    span:
+      start: 755
+      end: 755
+  37599f22289c4a37a5e93126bfdca8c4:
+    span:
+      start: 792
+      end: 792
+  b5e906dd5f2240808214762fb3886146:
+    span:
+      start: 842
+      end: 842
+  9ded6b9258b04ab1870bae57aa691136:
+    span:
+      start: 1012
+      end: 1012
+  cce5646cee2549e39a0ac2c0bc8dadbb:
+    span:
+      start: 1080
+      end: 1080
+  eaedaa64092c4c709f33bca176a2b9b8:
+    span:
+      start: 1152
+      end: 1152
+  b44e64e8cef740ca98108b38d528c496:
+    span:
+      start: 1253
+      end: 1253
+  5cc0528025ce4fc9b4e469463b05a0ff:
+    span:
+      start: 1458
+      end: 1458
+  fe62e64bab6d49db81b43eee8b8667a5:
+    span:
+      start: 1491
+      end: 1491
+  a470c76712f046c8af6220c3c11ab6df:
+    span:
+      start: 1550
+      end: 1550
+  54c3de4015064392b58f486abc889b77:
+    span:
+      start: 1592
+      end: 1592
+  a0babee023084dadbecc8765574f4047:
+    span:
+      start: 1632
+      end: 1632
+  31ce804eaa084dd5a38d1702e287de83:
+    span:
+      start: 3673
+      end: 3673
+local_ids:
+  befa2507490a484aa9055cb4514fcb40: 200000
+  c47b840e9a574fb6bb7d543ae85ea478: 200001
+  1728a531430c43ed83cacf9e93663466: 200002
+  e53804e2dc8c4e89b6e1648dd08e41a4: 200003
+  69a013a9f35f481d9fa170aee5923abf: 200004
+  37599f22289c4a37a5e93126bfdca8c4: 200005
+  b5e906dd5f2240808214762fb3886146: 200006
+  9ded6b9258b04ab1870bae57aa691136: 200007
+  cce5646cee2549e39a0ac2c0bc8dadbb: 200008
+  eaedaa64092c4c709f33bca176a2b9b8: 200009
+  b44e64e8cef740ca98108b38d528c496: 200010
+  5cc0528025ce4fc9b4e469463b05a0ff: 200011
+  fe62e64bab6d49db81b43eee8b8667a5: 200012
+  a470c76712f046c8af6220c3c11ab6df: 200013
+  54c3de4015064392b58f486abc889b77: 200014
+  a0babee023084dadbecc8765574f4047: 200015
+  31ce804eaa084dd5a38d1702e287de83: 200016
